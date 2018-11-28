@@ -1,0 +1,2 @@
+# JAVASCRIPT-INTERMEDIO
+Sfide ed Esercizi fatti per la lezione JAVASCRIPT INTERMEDIO(LOOP-ARRAY-OBJECT) presso LACERBA.IO
